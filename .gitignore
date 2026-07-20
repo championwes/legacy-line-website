@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Raw/uncompressed originals (keep out of repo)
+Imagery/
+*.jpeg
+assets/Color Palette/
+assets/logo/LL-*
+
+# Brand palette reference (used for design, not part of deployed site)
+assets/brand/
+
+# Workflow tools (local only, not part of deployed site)
+CLAUDE.md
+START_HERE.txt
+CARRIER_SITE_PLAYBOOK.md
+carrier_data.json
+carrier_summary.txt
+tools/
+safer screenshots/
+new-carrier.sh
